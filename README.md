@@ -94,7 +94,7 @@ Resolviendo Ec 1 y 2 obtenemos:
 
 Resultados:
 
-
+![image](https://user-images.githubusercontent.com/94011974/172252860-745e0727-c402-418e-85b0-776d16acc9e9.png)
  
 ***
 
