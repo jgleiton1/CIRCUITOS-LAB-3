@@ -14,10 +14,17 @@
 ***
    **1.1. Objetivo General** 
 
-
+Comprobar el cumplimiento del método de análisis de nodos, mediante el análisis de los circuitos eléctricos, las simulaciones y las prácticas de laboratorio físicas, para afianzar los conocimientos adquiridos en clase.
 
   **1.2. Objetivos Específicos:**
    
+-Construir mapas conceptuales que resuman el análisis de nodos y la ley de Kirchhoff de Corrientes, a partir de una búsqueda bibliográfica.
+
+-Calcular las medidas de voltajes de los nodos del circuito, mediante la construcción del circuito de forma física, en el simulador de Tinkercad y analíticamente con ecuaciones algebraicas utilizando el método de los nodos.
+
+-Justificar el desarrollo del laboratorio, mediante la presentación de un video, en el que se explique la resolución del método de nodos y el funcionamiento del circuito.
+
+-Comparar los resultados que se obtienen analíticamente, simuladamente y experimentalmente.
 
 ***
 
@@ -84,7 +91,11 @@ Circuito armado
 
 **8. Conclusiones**
 
+-A partir de lo investigado anteriormente, se puede concluir que el análisis de nodos sirve para encontrar los voltajes de cada nodo, que aplica la ley de corrientes de Kirchhoff, todo lo que entra en un nodo es igual a todo lo que sale. Es importante conocer que es un nodo y nodo de referencia, ya que de esto depende las diferentes posibilidades de conexión de la fuente.
 
+-Como se ha observado se realizó el cálculo de las medidas de voltaje, primeramente, se construyó el circuito indicado y con la ayuda de un multímetro se tomó las medidas experimentales, después en Tinkercad se hizo una simulación del circuito obteniendo las medidas de voltajes simuladas y por último se calculó el voltaje de los nodos utilizando el método de nodos en el cual se analiza el circuito y aplicando la ley de ohm y de corrientes de Kirchhoff, se obtienen ecuaciones que al  resolverlas nos dan los voltajes.
+
+-En la justificación del video se pude observar la construcción del circuito y su funcionamiento, se puede ver como se toman las medidas de cada nodo, también la construcción del circuito n el simulador de Tinkercad y su toma de medidas mediante simulación, se explica el análisis que se realizó para el método de nodos, primero determinamos la dirección de la corriente, establecemos cual es el nodo de referencia, en el cual va la conexión tierra. Utilizando la Ley de Kirchhoff y ley de ohm se obtienen las ecuaciones algebraicas las cuales se resuelven en Symbolab, dando lo resultados de voltajes analíticos.
 
 ***
 
