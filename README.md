@@ -76,8 +76,26 @@ Medición de voltaje en nodos
 
 **5. Procedimiento**
 
+Aplicando ley de Kirchof en los dos nodos que tenemos obtenemos las ecuaciones:
+
+I1 + I2 + I3 = 0       Ec 1
+
+I4 + I5 + I6 = 0       Ec 2
+
+Poniendo las corrientes en función de los voltajes y de las resistencias usando la ley de Ohm (I = V/R) se obtiene:
+
+(V1-5)/1800 + V1/470 + (V1-V2)/2200 = 0         Ec 1
+
+(V2-V1)/2200 + V2/3900 + (V2-10)/1500 = 0       Ec 2
+
+Resolviendo Ec 1 y 2 obtenemos:
+
+![image](https://user-images.githubusercontent.com/94011974/172251756-f80ff86e-3419-4ea3-b9f0-da24b14191e9.png)
+
+Resultados:
 
 
+ 
 ***
 
 **6. Cálculo de error**
