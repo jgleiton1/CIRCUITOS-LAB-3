@@ -1,5 +1,13 @@
 # CIRCUITOS-LAB-3
 
+![image](https://user-images.githubusercontent.com/105686218/169063263-fec46540-3f80-4755-af10-c6e466470348.png)        
+
+## CARRERA DE ELECTRONICA Y AUTOMATIZACION
+
+## FUNDAMENTOS DE CIRCUITOS ELECTRICOS
+
+***
+
 **1. Objetivos**
 
 
