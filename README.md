@@ -58,21 +58,19 @@ Comprobar el cumplimiento del método de análisis de nodos, mediante el anális
 
 ![image](https://user-images.githubusercontent.com/94011974/172238627-1759ebbb-75e6-42d7-ae02-8f5792becbd8.png)
 
+Circuito armado
+
 ![image](https://user-images.githubusercontent.com/94011974/172238580-170f4977-fae0-4612-b07f-dd803ec04d86.png)
+
+Medición de voltaje en nodos
 
 ![image](https://user-images.githubusercontent.com/94011974/172238656-6a69ccf6-2383-48a2-849a-bd91ac652709.png)
 
 ***
 
-
-Circuito armado
-
-
-***
-
 **4. Materiales y equipos requeridos**
 
-
+![image](https://user-images.githubusercontent.com/94011974/172239110-f5437525-a06c-43cd-9bb6-4a3e73e3a21d.png)
 
 ***
 
