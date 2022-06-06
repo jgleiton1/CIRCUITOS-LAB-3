@@ -54,6 +54,14 @@ Comprobar el cumplimiento del método de análisis de nodos, mediante el anális
 
 **3. Requerimientos previos**
 
+![image](https://user-images.githubusercontent.com/94011974/172238605-0d577f32-e0e9-4b03-ad1e-d35760f89284.png)
+
+![image](https://user-images.githubusercontent.com/94011974/172238627-1759ebbb-75e6-42d7-ae02-8f5792becbd8.png)
+
+![image](https://user-images.githubusercontent.com/94011974/172238580-170f4977-fae0-4612-b07f-dd803ec04d86.png)
+
+![image](https://user-images.githubusercontent.com/94011974/172238656-6a69ccf6-2383-48a2-849a-bd91ac652709.png)
+
 ***
 
 
