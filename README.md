@@ -102,6 +102,15 @@ Resultados:
 
 ![image](https://user-images.githubusercontent.com/94011974/170057592-12d7c136-22cd-4cac-9532-0e92eb81f1b9.png)
 
+Nodo 1
+
+![image](https://user-images.githubusercontent.com/105259459/172268639-fd91deb7-60ed-49d5-b08c-09a5f702a965.png)
+
+Nodo 2
+
+![image](https://user-images.githubusercontent.com/105259459/172268698-b4f9f955-798b-4f01-a06f-9298bf6907ef.png)
+
+
 ***
 
 
