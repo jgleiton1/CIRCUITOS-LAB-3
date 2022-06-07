@@ -130,6 +130,8 @@ Nodo 2
 
 -En la justificación del video se pude observar la construcción del circuito y su funcionamiento, se puede ver como se toman las medidas de cada nodo, también la construcción del circuito n el simulador de Tinkercad y su toma de medidas mediante simulación, se explica el análisis que se realizó para el método de nodos, primero determinamos la dirección de la corriente, establecemos cual es el nodo de referencia, en el cual va la conexión tierra. Utilizando la Ley de Kirchhoff y ley de ohm se obtienen las ecuaciones algebraicas las cuales se resuelven en Symbolab, dando lo resultados de voltajes analíticos.
 
+- A partir del análisis del circuito teórico, experimental y simulado, se puede observar que las medidas no varían demasiado, se tiene un porcentaje de error en el nodo 1 de -2.04% y en el nodo 2 de -0.20 %, por lo que se concluye que está bien calculadas sus medidas de voltaje.
+
 ***
 
 **9. Bibliografía**
