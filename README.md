@@ -66,6 +66,10 @@ Medición de voltaje en nodos
 
 ![image](https://user-images.githubusercontent.com/94011974/172238656-6a69ccf6-2383-48a2-849a-bd91ac652709.png)
 
+Circuito armado
+
+![image](https://user-images.githubusercontent.com/94011974/172277841-af183ca0-eff2-4642-a29f-4bd2a50ca808.png)
+
 ***
 
 **4. Materiales y equipos requeridos**
