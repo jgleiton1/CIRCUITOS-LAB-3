@@ -72,9 +72,9 @@ Circuito armado
 
 Medición de voltaje en circuito armado
 
-![WhatsApp Image 2022-06-07 at 8 20 13 PM (1)](https://user-images.githubusercontent.com/94011974/172511223-8e5862ec-0110-4fb2-9df1-7cf58fd8af0a.jpeg)
+![WhatsApp Image 2022-06-07 at 8 26 20 PM](https://user-images.githubusercontent.com/94011974/172511533-7ecaa0d5-2b88-428a-b5cb-51f48bce4179.jpeg)
 
-![WhatsApp Image 2022-06-07 at 8 19 50 PM](https://user-images.githubusercontent.com/94011974/172511247-3c2748f1-473c-4e81-9b6f-ed89c7625cd6.jpeg)
+![WhatsApp Image 2022-06-07 at 8 26 00 PM](https://user-images.githubusercontent.com/94011974/172511595-763f405d-322b-4fda-b3e2-826e01cfab11.jpeg)
 
 ***
 
