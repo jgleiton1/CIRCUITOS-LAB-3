@@ -70,6 +70,12 @@ Circuito armado
 
 ![image](https://user-images.githubusercontent.com/94011974/172277841-af183ca0-eff2-4642-a29f-4bd2a50ca808.png)
 
+Medición de voltaje en circuito armado
+
+![WhatsApp Image 2022-06-07 at 8 20 13 PM (1)](https://user-images.githubusercontent.com/94011974/172511223-8e5862ec-0110-4fb2-9df1-7cf58fd8af0a.jpeg)
+
+![WhatsApp Image 2022-06-07 at 8 19 50 PM](https://user-images.githubusercontent.com/94011974/172511247-3c2748f1-473c-4e81-9b6f-ed89c7625cd6.jpeg)
+
 ***
 
 **4. Materiales y equipos requeridos**
